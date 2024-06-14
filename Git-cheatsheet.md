@@ -3,9 +3,9 @@
 ### Useful GIT commands
 
 - git clone [remote-repo-link]
-  - to make a copy of repo
+  - to make a local copy of remote repo
 - git init
-  - make project/folder git folder – only one time
+  - to make project/folder git folder – only one time
 - git add . (or file name instead dot)
   - add all changed files / or listed file to git
 - git commit –m "your message here"
