@@ -2,16 +2,19 @@
 
 ### Useful GIT commands
 
-**git clone [remote-repo-link]** (to make a copy of repo)  
-*git init\* (make project/folder git folder – only one time)  
-*git add .\* (or file name) (add files/file to git)  
-git commit –m "your message here" (commit your changes)  
-git add . ; git commit -m “your message here” (2 commands in one line)  
-git push (push changes to git)  
-git push -u origin <main-or-feature-branch-name> (first time only)  
-git push --set-upstream origin <main-or-branch> (first time only)  
-(create pull request on github and merge code to main after approvals)  
-git pull (update your local from remote - pull only on main branch)
+- **git clone [remote-repo-link]**
+  - (to make a copy of repo)
+- git init
+  - (make project/folder git folder – only one time)
+- git add . (or file name)
+  - (add files/file to git)
+- git commit –m "your message here" (commit your changes)
+- git add . ; git commit -m “your message here” (2 commands in one line)
+- git push (push changes to git)
+- git push -u origin <main-or-feature-branch-name> (first time only)
+- git push --set-upstream origin <main-or-branch> (first time only)
+  - (create pull request on github and merge code to main after approvals)
+- git pull (update your local from remote - pull only on main branch)
 
 ### Create new branch:
 
@@ -73,10 +76,10 @@ rm –rf .git. ( to remove .git folder )
 
 ### Git config commands:
 
-git config --global –edit. (to edit)  
-git config --global –list (to see all global list)  
-git config --global push.default current  
-git config --global push.autoSetupRemote true
+- git config --global –edit. (to edit)
+- git config --global –list (to see all global list)
+- git config --global push.default current
+- git config --global push.autoSetupRemote true
 
 ### Adding alias:
 
