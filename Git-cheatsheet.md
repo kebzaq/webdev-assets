@@ -2,14 +2,14 @@
 
 ### Useful GIT commands
 
-git clone <remote-repo-link> (to make a copy of repo)  
+_git clone [remote-repo-link]_ (to make a copy of repo)  
 git init (make project/folder git folder – only one time)  
 git add . (or file name) (add files/file to git)  
 git commit –m "your message here" (commit your changes)  
 git add . ; git commit -m “your message here” (2 commands in one line)  
 git push (push changes to git)  
 git push -u origin <main-or-feature-branch-name> (first time only)  
-git push --set-upstream origin <main or branch> (first time only)  
+git push --set-upstream origin <main-or-branch> (first time only)  
 (create pull request on github and merge code to main after approvals)  
 git pull (update your local from remote - pull only on main branch)
 
