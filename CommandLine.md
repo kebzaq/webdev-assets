@@ -1,4 +1,4 @@
-# Useful Command-Line options for webdevs
+# Shell/Bash commands for webdevs
 
 - pwd : print working directory
 - cd : change directory
@@ -14,9 +14,10 @@
 - clear : or (Control + L) - clears contents
 - history : to see a list of all your previous commands
 
-## Vim edit
+## View / Edit files
 
-1. vi, vim <file-name> : edit a file
+1. cat <file-name> : view content of the file
+2. vi, vim <file-name> : edit a file
 
 - To close edit mode without saving:
   - Click ESC – to turn off edit mode
