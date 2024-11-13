@@ -1,4 +1,4 @@
-# Shell/Bash commands for webdevs
+# Useful shell/bash commands for webdevs
 
 - pwd : print working directory
 - cd : change directory
